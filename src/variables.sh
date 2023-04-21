@@ -94,6 +94,7 @@ declare nixpkgs_level_1+=(
     nixpkgs.ripgrep
     nixpkgs.fd
     nixpkgs.fzf
+    nixpkgs.lazygit
 )
 # =================================================
 # = SEMI-BIG PACKAGES                             =
@@ -106,6 +107,7 @@ declare nixpkgs_level_2+=(
     nixpkgs.rclone
     nixpkgs.bat
     nixpkgs.exa
+    nixpkgs.delta
 )
 # =================================================
 # = BIG PACKAGES                                  =
